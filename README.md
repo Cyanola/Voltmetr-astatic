@@ -1,0 +1,1 @@
+# Voltmetr astatic
